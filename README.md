@@ -4,7 +4,6 @@
 > **共有 4 个版本。**  
 >> - *“Basic Modification Regular”*；  
 >> - *“Basic Modification Light”*；  
->> - *“Basic Modification Bold”*；  
 >> - *“Basic Modification Tilt”*。  
 
 感谢你的查看！  
@@ -17,7 +16,13 @@ Hello! This is the project website of *"Basic-Modification"* font. You can downl
 > **There are 4 versions in total.**  
 >> - *"Basic Modification Regular"*;  
 >> - *"Basic Modification Light"*;  
->> - *"Basic Modification Bold"*;  
 >> - *"Basic Modification Tilt"*.  
   
 Thank you for your visiting!
+
+------
+
+# 注意  Notice  
+----------------------------------
+*“Basic Modification Bold”* 已被删除。
+*"Basic Modification Bold"* has been deleted.
